@@ -1,0 +1,21 @@
+# activator default
+activator*
+.cache
+bin
+logs
+target
+project
+
+# IDE
+
+## IntelliJ
+/.idea
+/*.iml
+/out
+/.idea_modules
+/RUNNING_PID
+
+## eclipse
+/.classpath
+/.project
+/.settings
